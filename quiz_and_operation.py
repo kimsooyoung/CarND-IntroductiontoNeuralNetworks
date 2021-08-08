@@ -1,3 +1,7 @@
+# What are the weights and bias for the AND perceptron?
+# Set the weights (weight1, weight2) and bias bias to the correct values
+# that calculate AND operation as shown above.
+
 import pandas as pd
 
 # TODO: Set weight1, weight2, and bias
